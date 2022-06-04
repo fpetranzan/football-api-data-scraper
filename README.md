@@ -1,2 +1,2 @@
-# football-com.football.api-data-scraper
+# football-api-data-scraper
 Simple API for football statistics and data by scraping
